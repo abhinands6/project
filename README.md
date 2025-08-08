@@ -48,7 +48,7 @@ Modern UI – Clean, minimal, but with just enough drama to reflect your semeste
 For Software:
 
 Screenshots (Add at least 3)
-
+<img width="800" height="auto" src="WhatsApp Image 2025-08-09 at 05.05.01.jpeg"/>
 
 Diagrams
 
