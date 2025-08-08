@@ -50,39 +50,16 @@ For Software:
 Screenshots (Add at least 3)
 <img width="800" height="auto" src="WhatsApp Image 2025-08-09 at 05.05.01.jpeg"/>
 
-Diagrams
-
-![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
-
-For Hardware:
-
-Schematic & Circuit
-
-![Circuit](Add your circuit diagram here) Add caption explaining connections
-
-![Schematic](Add your schematic diagram here) Add caption explaining the schematic
-
-Build Photos
-
-![Components](Add photo of your components here) List out all components shown
-
-![Build](Add photos of build process here) Explain the build steps
-
-![Final](Add photo of final product here) Explain the final build
-
 Project Demo
 
 Video
 
-[Add your demo video link here] Explain what the video demonstrates
+(https://drive.google.com/drive/folders/1VxMiAfB_6aORY3rFo_LjyFk8U3StOp3N) The project video decribes how hard the life of a btech student is to manage and its funny as well as unhappy to see the level of each concepts of life self adjusting. we had to do with memes but the time was limited we added emojis floating the snoring sound when sleep slider was increased. 
 
-Additional Demos
-
-[Add any extra demo materials/links]
 
 Team Contributions
 
-[Name 1]: [Specific contributions]
-[Name 2]: [Specific contributions]
-[Name 3]: [Specific contributions]
+Abhinand S R: Core concept and designs
+Janasudhan K: funny elements and coding
+
 Made with ❤️ at TinkerHub Useless Projects
